@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="m-10">
         <h1 className="text-9xl mb-10 text-center font-extralight">
-          Hello Fans!
+          Hello My Lovely Fans!
         </h1>
         <div className="flex space-x-1 items-center justify-center">
           <FaRegHandPointRight size="4rem" color="black" />
